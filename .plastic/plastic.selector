@@ -1,0 +1,4 @@
+repository "RPG Project@dorukt@cloud"
+  path "/"
+    br "/main"
+    co "/main"
